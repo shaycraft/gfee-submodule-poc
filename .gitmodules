@@ -1,3 +1,6 @@
 [submodule "lambda1/gfee-submodule-poc-common"]
 	path = lambda1/gfee-submodule-poc-common
 	url = https://github.com/shaycraft/gfee-submodule-poc-common
+[submodule "lambda2/gfee-submodule-poc-common"]
+	path = lambda2/gfee-submodule-poc-common
+	url = https://github.com/shaycraft/gfee-submodule-poc-common
